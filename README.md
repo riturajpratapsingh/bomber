@@ -8,11 +8,11 @@
 
   RRPS(Bomber) v1.0
 
-  (Latest Version Will Come Soon)
+  Latest Version Will Come Soon
 
   <br>
 
-</h1>
+</h2>
 
 <p align="center">RRPS(Bomber) Created By Ritu Raj Pratap Singh</p>
 
