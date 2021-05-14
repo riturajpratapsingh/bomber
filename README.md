@@ -1,13 +1,13 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/TheSpeedX/RRPS"><img src="https://i.ibb.co/F4HBKqm/RRPS.png" alt="RRPS"></a>
+  <a href="https://github.com/riturajpratapsingh/bomber"><img src="https://i.ibb.co/F4HBKqm/RRPS.png" alt="RRPS"></a>
   <br>
-  RRPS v2.0b
+  RRPS v1.0
   <br>
 </h1>
 
 
-<p align="center">A free and open-source SMS/Call bombing application</p>
+<p align="center">A Bomber Created By Ritu Raj Pratap Singh</p>
 
 ## Note:
 
