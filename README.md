@@ -54,7 +54,12 @@ cd RRPS
 
 ## Contact me  
 
-For Queries: [Telegram Group](https://t.me/RRPSChat)  
+For Queries: 
+[Telegram](https://telegram.me/RituRajPratapSingh)  
 
-[Check Out My YouTube Channel](https://www.youtube.com/c/SpeedXTech)
+[Instagram](https://Instagram.com/ritu.raj.pratap.singh)
+
+[Website](https://riturajpratapsinghindian.blogspot.com)
+
+[Facebook](https://Facebook.com/riturajpratapsinghindian)
 
