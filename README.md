@@ -54,7 +54,8 @@ cd RRPS
 
 ## Contact me  
 
-For Queries: 
+Get In Touch With Me On :- 
+
 [Telegram](https://telegram.me/RituRajPratapSingh)  
 
 [Instagram](https://Instagram.com/ritu.raj.pratap.singh)
